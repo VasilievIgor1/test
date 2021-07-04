@@ -1,1 +1,1 @@
-console.log('Hello world!'); console.log(111); console.log(222);
+console.log('Hello world!'); console.log(111);
